@@ -1,3 +1,6 @@
+<img src="public\assets\imgs\GameB.jpg"
+
+
 Game Balance — Projeto Individual
 1º semestre de Análise e Desenvolvimento de Sistemas (ADS)
 
